@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>网易云歌单</title>
+    <url>/2022/04/20/WYYmusic/</url>
+    <content><![CDATA[<h4 id="网易云音乐"><a href="#网易云音乐" class="headerlink" title="网易云音乐"></a><a href="https://music.163.com/playlist?id=3203731526&userid=2119842964">网易云音乐</a></h4>]]></content>
+      <tags>
+        <tag>资料</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>4.20日记</title>
+    <url>/2022/04/20/4-20%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ce5bbea53ea6492a4d0d1cfa68561bd7fb9e557b6151b326330265a31a156332">90c14018d492550cd8c11555bfd1ead9234adc7fcd66b81f9f8d32cc323ffd2dffef5e16b625d9f3280449e9260a003ae1aa0edc01d7d101d24e1a2c6da223b046820fc1ff142b7200f5a676f51f74e550845ec212ed28f6a30bc0eef02675e0a7849e923eb3a208659c7285f291cc3bdd1929cf68f71c0a370eff5cc33f9cb7de377968be7ba932d7edca4cf2b1b277ecb189c2e6aff57251c9bc78f15a1dfd72520cc412d6be1e83c2910ee61cd6e061534c5c345bb9415a5e96bcb80d8ba0796fb742d7cc31508e655851482659eb049ae9fe4450f011971b04ed4d51db08df15b704bd2923ff19f55c9c4ba61f79ce11b0a2eb63840aae601c12768e56e969e6eee37983a89d3d0052c18638339b9cf8eb5a70231c2ab3b02dcd00d8e745f84ccdb8303475b553f4294210019ca4a91d8669f974160e3add58481772a18c8b05b4f54cdcd295d46b3c010ac694dbe5400041bf38ea3f0d87bdb7c2709c39d2105ff146135c45350d0857327087faf8a6e2d6fe7e013d9bc5b47726af9317d72eb4e004aab3f5e433f4761165d52a49390119cf7d4e1659f248e8ee046510bd4be9edf48bd48340525810a97a1e94cde924ce37b97cf1b070ccaaa4f57ff05879346904bbdf614f05825965fd5ca7ce9ebb61c1b81fcb99b67bbcf86cc2e7ee766e5efd8c0ec5ec8fa7907dac4336758945f837e105a6a098cf90daa658398b851c416d2c4364cd3ad9d924807b608179ea784f26fd07f1f54ddcf06d5c57579cbec462cde6632eced238cd06d578ea66daa921bd73135284e9e91e3e4464f111352a52ad9e55e6b4fabe7088eb45ee990159924bd89825bb5f9e3d2e5bb7134735c60e1775b9fb219c9046043e219776be28d0270866b081739ead271566</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>增加密码部分</title>
     <url>/2022/04/20/passwordAdded/</url>
     <content><![CDATA[<h4 id="为日记和部分资料增加了密码"><a href="#为日记和部分资料增加了密码" class="headerlink" title="为日记和部分资料增加了密码"></a>为日记和部分资料增加了密码</h4>]]></content>
