@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>4.22日记</title>
+    <url>/2022/04/22/4-22%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="5fa62e34c1487e6207cc178cd7c7da4fdba3d8a4cfb256a508ec649c19bd8194">90c14018d492550cd8c11555bfd1ead9234adc7fcd66b81f9f8d32cc323ffd2d331333da6fe297216f933aec9f033dfdf39ba0dac7a493e2bc9c098ff9bfd7fadcc4dbad8bf22bf4be190defd474df1eda17d299eac260ec02856eb1a4053669</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>qKen三角</title>
+    <url>/2022/04/21/421%E5%A5%87%E6%80%AA%E7%9A%84%E6%83%B3%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="悟出了一个有趣的东西："><a href="#悟出了一个有趣的东西：" class="headerlink" title="悟出了一个有趣的东西："></a>悟出了一个有趣的东西：</h2><h3 id="定义："><a href="#定义：" class="headerlink" title="定义："></a>定义：</h3><p>3个人聊天（3人至少在表面上是朋友关系），两两分别对话，为叙述方便，称为1,2,3</p>
+<p>1号与2号聊天，1对3转发了对1形象有帮助（a规则），且能做到对2的讽刺（b规则），且不干扰到3的聊天记录（c规则）</p>
+<p>同理，2和3也按照该规则向不参与局部聊天的第三者分享聊天记录</p>
+<h3 id="效果："><a href="#效果：" class="headerlink" title="效果："></a>效果：</h3><h4 id="未注意"><a href="#未注意" class="headerlink" title="未注意"></a>未注意</h4><p>在这种情况下，1,2,3将同时认为自己是聊天的掌控者，且都接收到了令自己满意的消息</p>
+<h4 id="被注意"><a href="#被注意" class="headerlink" title="被注意"></a>被注意</h4><p>当1,2,3中猜测自己并非是唯一的通过abc3规则筛选聊天记录转发时</p>
+<p><strong>使用1例</strong>：</p>
+<p>1猜测2和3对自己的聊天记录断章取义，却没有任何办法证明，因为在隐瞒1的问题上，2和3同时受到规则c的干扰</p>
+<p><strong>诞生无解问题</strong></p>
+<p>后由于无法以任何方式证明真实性，将导致猜疑链：</p>
+<ol>
+<li><p>由于2和3的聊天对1处于未知状态，所以1有充分的空间猜测2和3也对自己使用了abc3规则转发</p>
+</li>
+<li><p>后1猜测2和3已经知道1知道对自己使用了abc3规则转发</p>
+</li>
+<li><p>后1猜测2和3已经知道1知道2和3已经知道1知道对自己使用了abc3规则转发</p>
+</li>
+<li><p>…</p>
+</li>
+<li><p>由于1同时也对2和3使用了abc3规则，所以1猜测2和3也注意到了该情况</p>
+</li>
+<li><p>后1猜测2和3也注意到1注意到2和3注意到该情况</p>
+</li>
+<li><p>后1猜测2和3也注意到1注意到2和3也注意到1注意到2和3注意到该情况</p>
+</li>
+<li><p>…</p>
+<p><strong>2和3同理</strong></p>
+<p>这种情况下，3者间都将产生不信任。</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>奇怪的想法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>英语·4月21日·圆体字</title>
     <url>/2022/04/21/%E8%8B%B1%E8%AF%AD%E5%9C%86%E4%BD%93%E5%AD%97421/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
