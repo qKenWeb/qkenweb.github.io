@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>网站信息</title>
-    <url>/2022/04/25/%E5%9F%9F%E5%90%8D%E4%B8%8E%E5%8A%9F%E8%83%BD/</url>
-    <content><![CDATA[<h3 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h3><p>网站基础：<code>hexo</code>博客系统</p>
-<p>网站主题：<code>Ocean</code>（开发者：<code>zhwangart</code>)</p>
-<p>网站所有者：<code>qKen</code></p>
-<p>网站目的：一种特别的娱乐方式</p>
-<span id="more"></span>
-
-<h3 id="网站部署信息"><a href="#网站部署信息" class="headerlink" title="网站部署信息"></a>网站部署信息</h3><p>部署位置：<strong>github</strong>(<a href="https://github.com/qKenWeb/qkenweb.github.io">https://github.com/qKenWeb/qkenweb.github.io</a>)</p>
-<p>可使用的网址：</p>
+    <title>所有网址</title>
+    <url>/2022/04/25/%E6%89%80%E6%9C%89%E7%BD%91%E5%9D%80/</url>
+    <content><![CDATA[<p>可使用的网址：</p>
 <ol>
 <li>github: <a href="https://qkenweb.github.io/">https://qkenweb.github.io/</a> (推荐)</li>
 <li>netlify: <a href="https://qken.netlify.app/">https://qken.netlify.app/</a></li>
@@ -21,10 +14,6 @@
 </ol>
 </li>
 </ol>
-<h3 id="部分网站插件"><a href="#部分网站插件" class="headerlink" title="部分网站插件"></a>部分网站插件</h3><p>live2d：<code>hexo-helper-live2d</code></p>
-<p>密码系统：<code>hexo-blog-encrypt</code></p>
-<p>搜索系统：<code>hexo-generator-searchdb</code></p>
-<p>评论系统：<code>gitalk</code></p>
 ]]></content>
       <tags>
         <tag>网站/程序相关</tag>
